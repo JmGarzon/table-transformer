@@ -13,10 +13,10 @@ import torch
 from torch.utils.data import DataLoader
 
 sys.path.append("../detr")
-from engine import evaluate, train_one_epoch
-from models import build_model
-import util.misc as utils
-import datasets.transforms as R
+# from engine import evaluate, train_one_epoch
+# from models import build_model
+# import util.misc as utils
+# import datasets.transforms as R
 
 import table_datasets as TD
 from table_datasets import PDFTablesDataset

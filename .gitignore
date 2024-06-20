@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pre trained models (To be downloaded from the main repo)
+pretrained_models/
